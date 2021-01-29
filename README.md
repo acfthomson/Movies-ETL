@@ -6,7 +6,7 @@ Fictional company Amazing Prime needs to create an automated pipeline that takes
 ## Resources
 Software
 - Python v3.x
-  - Dependencies
+  - Dependencies:
     - pandas
     - json
     - numpy
@@ -14,6 +14,9 @@ Software
     - sqlalchemy
     - psychopg2
     - time
- - PostgrSQL
- - pgAdmin
- - 
+ - PostgreSQL
+    - pgAdmin
+ - Files:
+    - [movies_metadata.csv](https://github.com/acfthomson/Movies-ETL/tree/main/Resources)
+    - [ratings_small.csv](https://github.com/acfthomson/Movies-ETL/tree/main/Resources)
+    - [wikipedia-movies.json](https://github.com/acfthomson/Movies-ETL/tree/main/Resources)
